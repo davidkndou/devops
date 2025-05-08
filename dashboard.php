@@ -27,7 +27,7 @@ $user = $_SESSION['user'];
                     class="block bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded">Transaksi</a>
             </li>
             <li>
-                <a href="logout.php" class="block bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded">Logout</a>
+                <a href="logout.php" class="block bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded">Kevin</a>
             </li>
         </ul>
     </div>
