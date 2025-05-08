@@ -1,7 +1,7 @@
 <?php
-$conn = new mysqli("localhost", "root", "Katasandi00_", "kasir_db");
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
 session_start();
+$conn = new mysqli("localhost", "root", "Kelompok7_", "peminjaman_buku");
+if ($conn->connect_error) {
+    die("Koneksi gagal: " . $conn->connect_error);
+}
 ?>
