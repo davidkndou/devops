@@ -17,7 +17,7 @@ if ($_POST) {
 </head>
 <body class="bg-gray-100 flex justify-center items-center h-screen">
     <form method="post" class="bg-white p-6 rounded shadow-md w-full max-w-sm">
-        <h2 class="text-2xl font-bold mb-4 text-center">Register</h2>
+        <h2 class="text-2xl font-bold mb-4 text-center">Keren</h2>
         <input name="name" placeholder="Nama Lengkap" class="w-full mb-3 px-4 py-2 border rounded">
         <input name="username" placeholder="Username" class="w-full mb-3 px-4 py-2 border rounded">
         <input type="password" name="password" placeholder="Password" class="w-full mb-3 px-4 py-2 border rounded">
