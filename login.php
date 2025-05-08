@@ -27,7 +27,7 @@ if ($_POST) {
 
 <body class="bg-gray-100 flex justify-center items-center h-screen">
     <form method="post" class="bg-white p-6 rounded shadow-md w-full max-w-sm">
-        <h2 class="text-2xl font-bold mb-4 text-center">Login</h2>
+        <h2 class="text-2xl font-bold mb-4 text-center">Masuk</h2>
 
         <?php if (isset($error)): ?>
             <p class="text-red-500 text-sm mb-3 text-center"><?= $error ?></p>
