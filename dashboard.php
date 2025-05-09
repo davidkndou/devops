@@ -16,7 +16,7 @@ if (!isset($_SESSION['user']))
 <body class="bg-gray-100 min-h-screen flex flex-col items-center justify-center">
     <div class="bg-white shadow-md rounded-lg p-6 w-full max-w-md">
         <h1 class="text-2xl font-bold mb-4 text-center">
-            Selamat datang, <?= htmlspecialchars($_SESSION['user']['name']) ?>
+            Selamat pagi dunia, <?= htmlspecialchars($_SESSION['user']['name']) ?>
         </h1>
         <ul class="space-y-3">
             <li>
